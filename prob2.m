@@ -1,4 +1,3 @@
-%计算Fibonacci数列中偶数和
 clear;
 clc;
 format compact
