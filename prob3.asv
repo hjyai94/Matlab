@@ -1,9 +1,0 @@
-function prime_factor =prob3 [x]
-%求 600851475143 的最大公约数
-for i = 1: x-1
-    if(rem(x,i)==0&&rem(i,2)~=0)
-        temp = i;
-    end
-end
-prime_factor = temp;
-end
