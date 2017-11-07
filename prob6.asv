@@ -1,0 +1,8 @@
+%%求100以内和的平方和平方和的差
+%
+sum
+for i = 1:100
+    sumsquare = i*i +sumsuare;
+    squaresum = i +squaresum;
+    suaresum = squaresum
+end
