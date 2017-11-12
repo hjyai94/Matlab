@@ -15,5 +15,3 @@ for a = 1:1000
     end
 end
 product = resulta*resultb*resultc
-
-    
